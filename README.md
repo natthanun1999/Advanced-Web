@@ -2,6 +2,7 @@
 ```
 pip install --user flask
 pip install --user flask_sqlalchemy
+python app.py
 ```
 ## Read this If you DELETE Database
 If you delete database (in Database Directory) <br/>
